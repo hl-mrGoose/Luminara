@@ -58,7 +58,8 @@ _MORE COMING SOON..._
 
 <img width="668" height="261" alt="AdvBackdrop" src="https://github.com/user-attachments/assets/0f741fd1-ccf1-4468-bc92-f09c0f4d2405" />
 
-**🚀 Future Development**
 Luminara is just the beginning. Planned updates will expand the holo-systems, add new tools, mechanics, and entire gameplay loops, steadily evolving Minecraft into a fully realized sci-fi adventure.
 
-✨ Forge your path into the unknown. Harness the power of Lumenite. Explore Deep Space. The future is luminous.
+
+
+**Forge your path into the unknown. Harness the power of Lumenite. Explore Deep Space. The future is luminous.**
