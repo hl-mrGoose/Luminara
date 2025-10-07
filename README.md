@@ -47,7 +47,7 @@ Step beyond the ordinary and enter the future of Minecraft with Luminara, a scie
 
 > Night Mode - an infinite use " + 2 mins of Night Vision ". no cost or cooldown, just click the button and your Holo-pad will apply 2 mins of Night Vision.
 
-> Request Landing - This mod was Designed to be used alongside Starlance x Valkerien Skies x Create x Cosmic Horizons. Althoug there isnt Compatibility between this mod and the desired ones, the request landing pad feature is a must have for those looking for immersive interstellar travel.
+> Request Landing - This mod was Designed to be used alongside Starlance x Valkerien Skies x Create x Cosmic Horizons. Although there isnt Compatibility between this mod and the desired ones, the request landing pad feature is a must have for those looking for immersive interstellar travel.
 
 > Holo-Storage - Literally just shows your inventory but on the holo pad :D
 
