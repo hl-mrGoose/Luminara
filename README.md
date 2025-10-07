@@ -1,4 +1,4 @@
-# Luminara: FORGE 1.20.1
+# Luminara
 
 <img width="626" height="306" alt="Screenshot 2025-10-04 at 8 36 17 pm" src="https://github.com/user-attachments/assets/57632ec2-8877-42fb-b748-9510813076d9" />
 
